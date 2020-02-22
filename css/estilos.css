@@ -35,3 +35,10 @@ body{
     font-size: 25px;
 
 }
+
+#footer{
+    background: #777 ;
+    color:wheat;
+    text-align: center;
+    padding: 0.5em;
+}
