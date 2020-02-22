@@ -37,6 +37,17 @@ body{
     color: #dddddd;
 }
 
+<<<<<<< HEAD
 #post p{
     color: antiquewhite;
 }
+=======
+}
+
+#footer{
+    background: #777 ;
+    color:wheat;
+    text-align: center;
+    padding: 0.5em;
+}
+>>>>>>> footer
