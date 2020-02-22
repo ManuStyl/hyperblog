@@ -37,6 +37,10 @@ body{
     color: #dddddd;
 }
 
+#post p{
+    color: aliceblue;
+}
+
 #footer{
     background: #777 ;
     color:wheat;
